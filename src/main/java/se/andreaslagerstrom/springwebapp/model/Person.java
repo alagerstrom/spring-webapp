@@ -1,4 +1,4 @@
-package se.andreaslagerstrom.springwebapp;
+package se.andreaslagerstrom.springwebapp.model;
 
 import javax.persistence.*;
 
